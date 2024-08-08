@@ -117,7 +117,7 @@
   window.addEventListener('scroll', scrollActive)
   function downloadCV() {
         // Replace with the actual path to your CV PDF file
-        var cvPath = 'https://drive.google.com/file/d/1H7ewS1KGdxFeMaRuqgZg4vRUm9I5-kfW/view';
+        var cvPath = 'https://drive.google.com/file/d/1QLtKXt0_aARLqRo5LRQvrW4VXqd-rusj/view?usp=sharing';
 
         var link = document.createElement('a');
         link.href = cvPath;
